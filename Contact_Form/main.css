@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+/* CSS Document */
+body {
+    font-family: calibri;
+
+    margin-top: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+	
+}
+
+.form_part {
+    
+      height: 400px;
+   padding-left: 40px;
+	  border: 1px solid green;
+}
+.create
+{
+	background: rgba(0, 0, 0, 0) url("images/ribbon.png") no-repeat scroll 0 0;
+    height: 27px;
+    margin: -3px 0 0 32px;
+    width: 153px;
+
+}
+
+.create h3 {
+    color: #fff;
+    font-family: calibri;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+input {
+    border: 1px solid green;
+    height: 30px;
+    margin: 15px 0 0;
+    width: 250px;
+}
+
+label {
+    float: left;
+    margin: 5px 0 0;
+    width: 100%;
+}
+
+
+form {
+    margin: 15px auto;
+    width: 80%;
+}
+
+button {
+    background: #01b3b3 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: normal;
+    margin: 40px 0 0;
+    padding: 10px 35px;
+    text-transform: uppercase;
+}
+
